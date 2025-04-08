@@ -63,6 +63,7 @@
 
 ### Third-party Integrations:
 - Payment Gateway: Робокасса, Долями, Частями(сбер)
+- CRM: МойСклад
 - Email & SMS: Sendsay, Voicepassword
 - Analytics: Google Analytics, Yandex Metrika
 
